@@ -1,7 +1,3 @@
-Here’s a sample README for your project based on the analysis you provided:
-
----
-
 # **Diwali Sales Data Analysis**
 
 ## **Overview**
@@ -91,6 +87,9 @@ This project analyzes Diwali sales data to understand customer purchasing patter
 
 ## **Future Work**
 
-- Incorporate advanced machine learning models for predictive analytics.
 - Perform time-series analysis for better trend forecasting.
 - Explore customer segmentation and personalized marketing strategies.
+
+### Contact
+
+For any questions or feedback, please reach out to [your email](mailto:vardanrastogi1@gmail.com).
